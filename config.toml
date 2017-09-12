@@ -52,7 +52,7 @@ paginate = 10
 
 [[menu.main]]
     name = "Get A Quote"
-    url  = "/getaquote/"
+    url  = "/contact/"
     weight = 5
 
 # Top bar social links menu
@@ -110,8 +110,8 @@ paginate = 10
     ## TODO change email to inflatabledan@gmail.com
     email = "ir@jerad.xyz"
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-    copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
+    about_us = "<p>Dan has been servicing customizing and building boats here in New Zealand for over a decade. Let Dan float your boat.</p>"
+    copyright = "Copyright (c) 2017, Inflatable Dan; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "2 January, 2006"
