@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Inflatable Dan</title>
+    <link>http://jerad.xyz/inflatabledan-universal/categories/</link>
+    <description>Recent content in Categories on Inflatable Dan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2015 - 2016, YourCompany; all rights reserved.</copyright>
+    
+	<atom:link href="http://jerad.xyz/inflatabledan-universal/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lorem</title>
+      <link>http://jerad.xyz/inflatabledan-universal/categories/lorem/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>http://jerad.xyz/inflatabledan-universal/categories/lorem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>http://jerad.xyz/inflatabledan-universal/categories/programming/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>http://jerad.xyz/inflatabledan-universal/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pseudo</title>
+      <link>http://jerad.xyz/inflatabledan-universal/categories/pseudo/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://jerad.xyz/inflatabledan-universal/categories/pseudo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>http://jerad.xyz/inflatabledan-universal/categories/r/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>http://jerad.xyz/inflatabledan-universal/categories/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Starting</title>
+      <link>http://jerad.xyz/inflatabledan-universal/categories/starting/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>http://jerad.xyz/inflatabledan-universal/categories/starting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
